@@ -1,5 +1,5 @@
 # JioSaavn-Downloader
-### Made With :heart:,by  Samir:star:
+### Made With :heart:,by  TaNviiR-RiiYaD:
 
 * Uses [JioSaavn Un-Official API](https://github.com/Shinobi2307/JioSaavn-Downloader) and generates a download link.
 * This Website is nothing without API.
