@@ -1,0 +1,27 @@
+{
+    "dir": "ltr",
+    "lang": "English",
+    "name": "JioSaavn Pro",
+    "scope": "/",
+    "display": "fullscreen",
+    "start_url": "https://shinobi-jiosaavn.netlify.app",
+    "short_name": "JioSaavn Pro",
+    "theme_color": "#63A3F2",
+    "description": "Download JioSaavn Songs or Play Online. Enjoy Direct Access to Billions of songs and with no ads.",
+    "orientation": "any",
+    "background_color": "#FFFFFF",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/thumbnail.webp",
+            "sizes": "196x196",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/thumbnail.webp",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
