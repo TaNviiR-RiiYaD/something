@@ -9,9 +9,7 @@ alt="bomberthon"/></a>
 <img src="https://img.shields.io/badge/version-7.9.3-cyan">
 <img src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-yellow">
 <img src="https://img.shields.io/badge/This%20TooLs%20Created-Just%20For%20Fun-green">
-<p/>
-
-#
+<a href="https://github.com/TaNviiR-RiiYaD/something/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/TaNviiR-RiiYaD/something?label=Watchers&color=blue&style=flat-square"></a>
 <p/>
 <h3><b><i>📡 Get in Touch :</i></b></h3>
 <a href="https://github.com/TaNviiR-RiiYaD"><img align="left" title="Github" alt="Github" width="30px" src="image/github.png" /></a>
